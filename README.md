@@ -1,4 +1,6 @@
-wakonze
+WAKONZE
+
+
 Wakonze - 𐓏𐒰𐒼𐓂𐓁𐓓𐒻̄
 
 Learn the Osage alphabet with spaced repetition
